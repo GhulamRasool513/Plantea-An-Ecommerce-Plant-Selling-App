@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583356075965",
+    "project_id": "plantea-1a7b0",
+    "storage_bucket": "plantea-1a7b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583356075965:android:68c2864d5808d601d50cd4",
+        "android_client_info": {
+          "package_name": "com.SamTech.plantea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583356075965-kk5cupsvc1ek1grgiag0a08912mc3kau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJqBkZrIrSBCjccn56zs9pK-Vnn7GRCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583356075965-kk5cupsvc1ek1grgiag0a08912mc3kau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
