@@ -294,7 +294,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                     // navigatorKey.currentState!
                     //     .popUntil((route) => route.isFirst);
 
-                    Navigator.pushNamed(context, RegistrationScreen.id);
+                    Navigator.pushNamed(context, HomeScreen.id);
                   },
                   child: Text(
                     'Sign up',
