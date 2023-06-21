@@ -1,11 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:floating_bottom_navigation_bar/floating_bottom_navigation_bar.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'registration_screen.dart';
-import 'wallet_screen.dart';
-import 'home_screen.dart';
-import 'package:plantea/Modals/extracted_widgets.dart';
 import 'package:plantea/Modals/bottomNavigationBar.dart';
 
 

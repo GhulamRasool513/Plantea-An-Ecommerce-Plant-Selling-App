@@ -1,8 +1,7 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:plantea/Screens/home_screen.dart';
 import 'package:plantea/Screens/login_screen.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 
 class MainPage extends StatelessWidget {
   static String id = ('main_page');

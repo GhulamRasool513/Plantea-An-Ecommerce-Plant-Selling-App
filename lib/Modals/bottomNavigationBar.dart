@@ -1,10 +1,10 @@
-import 'package:flutter/material.dart';
 import 'package:floating_bottom_navigation_bar/floating_bottom_navigation_bar.dart';
+import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:plantea/Screens/my_order.dart';
-import 'package:plantea/Screens/wallet_screen.dart';
 import 'package:plantea/Screens/home_screen.dart';
+import 'package:plantea/Screens/my_order.dart';
 import 'package:plantea/Screens/profile_screen.dart';
+import 'package:plantea/Screens/wallet_screen.dart';
 
 
 class MybottomNavigationBar extends StatelessWidget {

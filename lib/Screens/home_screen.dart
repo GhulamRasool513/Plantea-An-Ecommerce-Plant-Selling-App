@@ -1,13 +1,9 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:plantea/Screens/order_screen.dart';
-import '../Modals/bottomNavigationBar.dart';
 import 'package:plantea/Modals/extracted_widgets.dart';
-import 'registration_screen.dart';
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_storage/firebase_storage.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
+
+import '../Modals/bottomNavigationBar.dart';
 
 Color selectedColor = Colors.green;
 Color backgroundColor = Colors.transparent;

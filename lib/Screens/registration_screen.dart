@@ -1,15 +1,10 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:plantea/Screens/home_screen.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:plantea/Modals/extracted_widgets.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:plantea/Screens/login_screen.dart';
-import 'package:plantea/main.dart';
 import 'package:email_validator/email_validator.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/material.dart';
+import 'package:plantea/Modals/extracted_widgets.dart';
+import 'package:plantea/Screens/home_screen.dart';
+import 'package:plantea/Screens/login_screen.dart';
 
 class RegistrationScreen extends StatefulWidget {
   static String id = 'registraion_screen';

@@ -1,9 +1,8 @@
 import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:plantea/Screens/registration_screen.dart';
-import 'package:plantea/Modals/extracted_widgets.dart';
 import 'package:plantea/main_page.dart';
 
 

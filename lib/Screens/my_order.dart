@@ -1,12 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'profile_screen.dart';
-import 'wallet_screen.dart';
-import 'home_screen.dart';
-import 'package:floating_bottom_navigation_bar/floating_bottom_navigation_bar.dart';
-import 'registration_screen.dart';
-import 'package:plantea/Modals/extracted_widgets.dart';
 import 'package:plantea/Modals/bottomNavigationBar.dart';
+import 'package:plantea/Modals/extracted_widgets.dart';
 class MyOrderScreen extends StatelessWidget {
   static String id = 'my_order_screen';
 

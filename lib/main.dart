@@ -1,22 +1,15 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:plantea/Screens/home_screen.dart';
 import 'package:plantea/Screens/loading_screen.dart';
+import 'package:plantea/Screens/login_screen.dart';
 import 'package:plantea/Screens/my_order.dart';
 import 'package:plantea/Screens/order_screen.dart';
 import 'package:plantea/Screens/profile_screen.dart';
 import 'package:plantea/Screens/registration_screen.dart';
 import 'package:plantea/Screens/wallet_screen.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:plantea/Screens/login_screen.dart';
-import 'main_page.dart';
-import 'dart:io';
 
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:flutter/material.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:image_picker/image_picker.dart';
-import 'package:firebase_storage/firebase_storage.dart';
+import 'main_page.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();

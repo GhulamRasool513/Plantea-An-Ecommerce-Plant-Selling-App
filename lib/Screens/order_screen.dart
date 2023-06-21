@@ -1,8 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:plantea/Modals/extracted_widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:plantea/Modals/bottomNavigationBar.dart';
+import 'package:plantea/Modals/extracted_widgets.dart';
 import 'package:plantea/Screens/my_order.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 
