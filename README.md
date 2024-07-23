@@ -1,5 +1,35 @@
 # Plantea: An E-Commerce Plant Selling App
 
+# Visuals
+
+## Loading Screen:
+<img width="1440" alt="Loading Screen" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/70d2a659-9747-4866-98e6-4b57993c8fce">
+
+## Dashboard Screen:
+<img width="1440" alt="Dashboard Screen" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/4fe2aadc-99e9-4011-b770-c7a6c20d523c">
+
+
+## Plants Vertical List:
+<img width="1440" alt="Plants in A Vertical List" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/ae9e1482-75e1-4c46-953b-48a3e392ca53">
+
+## Order:
+<img width="1440" alt="Order" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/7d224a34-e4b7-47d5-8fa1-8c99cdeeb2c4">
+
+## Confirmation Dialogue:
+<img width="1440" alt="Confirmation Dialogue" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/66c92563-0428-4cac-b8e8-7097cb0d51fc">
+
+## My Orders Active Tab:
+<img width="1440" alt="My Orders Active Tab" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/23cd3fca-1479-4920-abd4-f20c4ffec322">
+
+## My Orders Complete Tab:
+<img width="1440" alt="Completed Orders Tab" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/aa2d2c07-1e54-4bec-a080-676f41d604f2">
+
+## Profile:
+<img width="1440" alt="Profile" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/35353371-b458-4dd6-9a69-27b0a6e7a446">
+
+## E-Wallet:
+<img width="1440" alt="E-Wallet" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/522f2786-e76c-42fb-8533-355004cea311">
+
 ## Inspiration
 
 # Nature Is In You, Nature Is In Me, Nature Is In Everything
@@ -65,36 +95,6 @@ Future Plan For Plantea Is To Rank On Online Stores.
 
 ## Built With
 Dart | Firebase | Flutter | UI/UX
-
-# Visuals
-
-## Loading Screen:
-<img width="1440" alt="Loading Screen" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/70d2a659-9747-4866-98e6-4b57993c8fce">
-
-## Dashboard Screen:
-<img width="1440" alt="Dashboard Screen" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/4fe2aadc-99e9-4011-b770-c7a6c20d523c">
-
-
-## Plants Vertical List:
-<img width="1440" alt="Plants in A Vertical List" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/ae9e1482-75e1-4c46-953b-48a3e392ca53">
-
-## Order:
-<img width="1440" alt="Order" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/7d224a34-e4b7-47d5-8fa1-8c99cdeeb2c4">
-
-## Confirmation Dialogue:
-<img width="1440" alt="Confirmation Dialogue" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/66c92563-0428-4cac-b8e8-7097cb0d51fc">
-
-## My Orders Active Tab:
-<img width="1440" alt="My Orders Active Tab" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/23cd3fca-1479-4920-abd4-f20c4ffec322">
-
-## My Orders Complete Tab:
-<img width="1440" alt="Completed Orders Tab" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/aa2d2c07-1e54-4bec-a080-676f41d604f2">
-
-## Profile:
-<img width="1440" alt="Profile" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/35353371-b458-4dd6-9a69-27b0a6e7a446">
-
-## E-Wallet:
-<img width="1440" alt="E-Wallet" src="https://github.com/GhulamRasool513/Plantea-An-Ecommerce-Plant-Selling-App/assets/115826835/522f2786-e76c-42fb-8533-355004cea311">
 
 
 
